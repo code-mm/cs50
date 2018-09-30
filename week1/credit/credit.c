@@ -7,7 +7,7 @@
 int main(void) {
     long long card_number = 0;
 
-    /+ input card number */
+    /* input card number */
     while(card_number <=0 | card_number > pow(10,16)) {
         card_number = get_long_long("Number: ");
     }
