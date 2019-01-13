@@ -19,7 +19,7 @@ WORD    2 byte
 ## What (in ASCII, decimal, or hexadecimal) must the first two bytes of any BMP file be? Leading bytes used to identify file formats (with high probability) are generally called "magic numbers."
 
 ASCII          BM
-decimal        42, 77
+decimal        66, 77
 hexadecimal    0x42, 0x4d
 
 ## What's the difference between `bfSize` and `biSize`?
